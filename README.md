@@ -19,7 +19,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: [https://faq-accordion-umber.vercel.app/](https://faq-accordion-umber.vercel.app/)
 
 ## My process
 

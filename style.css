@@ -83,6 +83,11 @@ body {
     justify-content: space-between;
 }
 
+.accordion__icon {
+    width: 2rem;
+    height: 2rem;
+}
+
 .accordion__title {
     max-width: 80%;
 }
